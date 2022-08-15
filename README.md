@@ -1,16 +1,7 @@
 # getx_cleanarch
 
-A new Flutter project.
+Este projeto tem como objetivo consumir os dados de uma API (na qual utiliza-se a lib **http**).
 
-## Getting Started
+Foi utilizado o GetX para para injeção de dependências, controle de estado e gestão de rotas. Além de utilizar a metodologia do Clean Architecture para organização de pastas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Foi criado testes unitários utilizando o **Mocktail** para verificar se os dados transmitidos entre as camadas do Clean Arch atende aos requisitos levantados.
