@@ -1,0 +1,10 @@
+{
+    "currency_name": "Nome",
+    "cotation": "100.000",
+    "symbol": "ABC",
+    "image_url": "https:teste.png",
+    "details": {
+        "about": "Teste",
+        "fee": 1.001
+    }
+}

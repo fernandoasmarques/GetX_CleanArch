@@ -1,0 +1,17 @@
+{
+  "message": "All Coins",
+  "wallet_id": "c0inS-13435-2342-zksh-34556",
+  "user_balance": "15.455",
+  "data": [
+    {
+      "currency_name": "Bitcoin",
+      "cotation": "194.706",
+      "symbol": "BTC",
+      "image_url": "https://panda-crypto-images.s3.amazonaws.com/512d12d5c9a9b30c6d53-Bitcoin.png",
+      "details": {
+        "about": "O criador inicial do Bitcoin...",
+        "fee": 3.345
+      }
+    }
+  ]
+}
